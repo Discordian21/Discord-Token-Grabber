@@ -1,2 +1,8 @@
 # Discord-Token-Grabber
-this is a discord token grabber
+Neptune is a token grabber 
+- Token
+- Roblox
+- Cookies
+- Snapshot
+- Webcam screenshot
+- file stealer
